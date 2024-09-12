@@ -1,4 +1,4 @@
 # la-network-analysis
 Git for creating a co-complaint network analysis for law enforcement agencies in Louisiana
 
-![](relative/path/to/image.jpg](https://github.com/aclu-national/la-network-analysis/blob/66d036481062d456d27be19bdc26445f2d0e4c0e/degree.png)
+![alt text](https://github.com/aclu-national/louisiana_police_quick_facts/blob/80d4c708379a125cce253c7c782504e85c067821/app_preview.png)
